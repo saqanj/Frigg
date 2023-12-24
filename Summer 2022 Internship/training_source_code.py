@@ -1,4 +1,4 @@
-# AUTHOR: SAQLAIN ANJUM, AI ENGINEERING INTERN, DREAMUP.AI SUMMER 2022 (JULY - AUGUST)
+# AUTHORS: SAQLAIN ANJUM & MATTEO ZAMBON, AI ENGINEERING INTERNS, DREAMUP.AI SUMMER 2022 (JULY - AUGUST)
 # Project completed on Google CoLab.
 # All relevant research performed in order to complete this project:
 #        https://wandb.ai/jack-morris/david-vs-goliath/reports/Does-Model-Size-Matter-A-Comparison-of-BERT-and-DistilBERT--VmlldzoxMDUxNzU 
@@ -438,7 +438,7 @@ sorted_training_data = [
 
 
 
-# Sorted Validation Data -
+# Sorted Validation Data 
 sorted_validation_data = [
     # CP Classifications-
      ("little schoolboy, shoving pencil up ass, sexy","CP"),
